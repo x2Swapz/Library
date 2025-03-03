@@ -1954,7 +1954,7 @@ function Library:Create(options)
 				Section["20"]["Size"] = UDim2.new(0, 408, 0, 18)
 				Section["20"]["Text"] = options.Name
 				Section["20"]["Name"] = [[SectionLabel]]
-				Section["20"]["Font"] = Enum.Font.GothamMedium
+				Section["20"]["Font"] = Enum.Font.ArialBold
 				Section["20"]["BackgroundTransparency"] = 1
 				Section["20"]["Position"] = UDim2.new(0, 8, 0, 6)
 
