@@ -56,7 +56,7 @@ local ThemeColor = {
 		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(132, 65, 232)),
 		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(132, 65, 185)),
 	}),
-	ThemeTrue = Color3.fromRGB(132, 65, 232),
+	ThemeTrue = Color3.fromRGB(26, 0, 255),
 }
 
 local Library = {
