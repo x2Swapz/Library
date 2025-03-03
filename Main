@@ -53,8 +53,8 @@ local ThemeColor = {
 	}),
 	NavBarTrue = Color3.fromRGB(35, 35, 35),
 	Theme = ColorSequence.new({
-		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(132, 65, 232)),
-		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(132, 65, 185)),
+		ColorSequenceKeypoint.new(0.000, Color3.fromRGB(26, 0, 255)),
+		ColorSequenceKeypoint.new(1.000, Color3.fromRGB(26, 0, 255)),
 	}),
 	ThemeTrue = Color3.fromRGB(26, 0, 255),
 }
